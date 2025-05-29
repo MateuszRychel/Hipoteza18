@@ -19,7 +19,7 @@ Stworzenie klasy `Anagram` z metodą statyczną porównującą dwa napisy i spra
 ### ✅ Przykłady użycia:
 
 ```python
-Anagram.check("Tom Marvolo Riddle", "I am Lord Voldemort")  # True
-Anagram.check("Julian Tuwim", "Lutni, ujaw mi!")            # True
-Anagram.check("Gregory House", "Huge ego, sorry")           # True
-Anagram.check("Caster Semenya", "A secret man? Yes")        # True
+test = Anagram("Tom Marvolo Riddle", "I am Lord Voldemort")  # True
+test = Anagram("Julian Tuwim", "Lutni, ujaw mi!")            # True
+test = Anagram("Gregory House", "Huge ego, sorry")           # True
+test = Anagram("Caster Semenya", "A secret man? Yes")        # True
