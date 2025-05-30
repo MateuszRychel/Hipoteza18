@@ -23,3 +23,15 @@ test = Anagram("Tom Marvolo Riddle", "I am Lord Voldemort")  # True
 test = Anagram("Julian Tuwim", "Lutni, ujaw mi!")            # True
 test = Anagram("Gregory House", "Huge ego, sorry")           # True
 test = Anagram("Caster Semenya", "A secret man? Yes")        # True
+```
+
+
+## 📱 Część II – Aplikacja mobilna (MAUI)
+
+Aplikacja mobilna stworzona z użyciem frameworka .NET MAUI umożliwia użytkownikowi sprawdzenie, czy dwie wprowadzone frazy są anagramami.
+
+### ✨ Funkcje aplikacji:
+
+- Dwa pola tekstowe do wpisania fraz.
+- Przycisk "Sprawdź".
+- Komunikat z informacją, czy frazy są anagramami.
